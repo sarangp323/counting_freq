@@ -3,6 +3,7 @@ print(" Different Ways:")
 print("Taking list as input:")
 s = list(map(int, input().split(" ")))
 print("Using Dictionary")
+# using traditional way
 freq = {}
 for i in s:
     if i in freq:
@@ -12,6 +13,7 @@ for i in s:
 for k,v in freq.items():
     print(k,v)
 
+# using short way
 counter = {}
 for i in s:
     counter[i] = counter.get(0,1) +1
