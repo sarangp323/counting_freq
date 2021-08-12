@@ -1,3 +1,4 @@
+print("counting freq. of element in list")
 s = list(map(int, input().split(" ")))
 freq = {}
 for i in s:
