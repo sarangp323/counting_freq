@@ -1,8 +1,9 @@
 def fibonacciModified(t1, t2, n):
     # Write your code here
+	#creating list 
     k=[t1,t2]
     for i in range(2,n):
-        k.append(k[-2]+(k[-1]**2))
+        k.append(k[-2]+(k[-1]**2)) #appending result to list
     return k[-1]
 
 
