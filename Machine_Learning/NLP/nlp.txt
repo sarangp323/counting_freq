@@ -1,0 +1,32 @@
+NLP:
+1. Tokenization
+2. stopwords
+3. Stemming
+4. Lemmetization
+5. POS tagging
+6. corpus
+- NER (Named entity recognition)
+7. Bag of words
+8. N-grams
+9. TFIDF
+10. Similarity metrics e.g cosine, jaccard, levenstein, Euclidien, manhatton
+11. word vectors using word2vec lib.
+12. Doc. vectors using doc2vec lib.
+13. Fasttext lib.
+14. Syntactic analysis.
+15. Symantic analysis.
+16. sentiment analysis.
+17. Summarization
+18. Bagging and Boosting
+19. ensemble techniques
+20. Bayesian hyperparameter optimization
+21. Clustering models
+22. Regression models
+23. 
+
+
+Libraries:
+NLTK
+gensim
+scipy
+sklearn

@@ -1,0 +1,111 @@
+			Logistic Regression
+
+Cassification:-
+
+1) Binary classification:- Used when only two class are there e.g. (spam and not-spam)
+	-  Algorithms used:- Logistic Regression, Naive Bayes, Decision Tree, SVM,K-nearest neighbour
+	
+2) Multiclass Classification:- Used when classisfiation task have more than two class labels e.g.(face detection, plant species detection)
+	-  Algorithm :- Niave Bayes, Decision Tree, Gradient Boosting, Random forest, K-nn
+
+3) Multilabel classisfication :- used when more than two or have more class labels where one or more class label is predicted e.g ( In object detection it detect person, bicycle, apple etc.)
+	- Algorithm :-  Multi-label Decision Trees, Multi-label Random Forests, Multi-label Gradient Boosting
+
+4) Imbalanced Classification: -Used when no. of example in each class are unequally distributed e.g.(fraud detection etc.) 
+	- Technique used  :-   i)Random undersampling:- Randomly selecting example from majority class and delete from training dataset
+			ii)Random Oversampling :- Randomly duplicatind example from minority class and adding to training dataset
+			iii)SMOTE:- Synthesize new example from minority class and adding to training dataset
+
+					 
+Regularization:-
+-It is used to prevent overfitting problem
+
+i) L1:-
+	- It is known as Lasso Regression or Least absolute deviation
+	- Advantage of L1 is Sparsity (most no.  of cells zeo)
+	- It will make all less important features to zero.
+	- preferred when high no. of features
+	- It attempt to estimate median of data.
+
+ii) L2:-
+	- It is known as Ridge regression or least square error.
+	- Adding Squared magnitude to loss term will prevent model to undergo overfit.
+	- Here all less feature value will become small but not zero.
+	- Deals with multicollinearity.
+	- It attempt to estimate mean of data.
+
+iii) Elasticnet:-
+	- Combination L1 and L2.
+
+iv) C parameter:- 
+	- It is inverse of regularization.
+	- less C value more regularization, means less non important features
+
+Solver:-
+
+i) Liblinear:- Good choice for small datasets.
+	- Handles L1 penalty
+	
+
+ii) sag :- For large datasets.
+           - Handles L2 or no penalty 
+           - for Multiclass problem
+	
+
+iii) saga :- For large datasets.
+              - Supports Elasticnet penalty
+              - for Multiclass problem
+
+iv) lfgbs :- for Multiclass problem
+	- Handles L2 or no penalty 
+
+v) nweton-cg :- for Multiclass problem
+	- Handles L2 or no penalty 
+
+Intercept Scaling :-
+
+	- It is used to reduce weight values and effect of regularization
+
+Tolerance:-
+
+	- checking diff. b/w loss at present and previous iteration , this value is called Tolerance.
+	- large value of tolerance means algorithm stops early and result in bad classification.
+	- very less vaue, algorithm will take more time for its convergence
+
+Max_iter:-
+
+	- Choose max no. of iteration
+
+Class_weight:-
+	
+	- Used to handle Imbalnced data
+
+Dual:-
+
+	- True, algorithm solves dual formulation (Lr obj. func primal function , LR objective func, using Lagrange multipliers)
+	- False, algorithms uses primal formulation
+	-'True' when solver='liblinear' and penalty = 'L2'
+
+n_jobs:-
+
+	-Gives facility to run fitting job in parallel
+	- n_jobs=2, 2 cores of your system works parallely for same task.
+
+Multi-class:-
+
+	- default value 'auto'
+	- for Binary class label, 'ovr' is used.
+	- for multi-label, ;multinomial' is used.
+
+verbose:-
+
+	- used to show produced messages.
+
+warm_state:-
+
+	-'True', if we want to reuse previous model learning for present learning.
+
+  
+	
+
+	

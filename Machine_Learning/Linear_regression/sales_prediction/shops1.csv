@@ -1,0 +1,61 @@
+,shop_name,shop_id,shop_eng,city
+0,"!Якутск Орджоникидзе, 56 фран",0,"! Yakutsk Ordzhonikidze, 56 francs",Yakutsk
+1,"!Якутск ТЦ ""Центральный"" фран",1,"! Yakutsk TC ""Central"" fran",Yakutsk
+2,"Адыгея ТЦ ""Мега""",2,"Adygea shopping center ""Mega""",Adygea
+3,"Балашиха ТРК ""Октябрь-Киномир""",3,"Balashikha TRK ""October-Kinomir""",Balashikha
+4,"Волжский ТЦ ""Волга Молл""",4,"Volzhsky shopping center ""Volga Mall""",Volzhsky
+5,"Вологда ТРЦ ""Мармелад""",5,"Vologda SEC ""Marmelad""",Vologda
+6,"Воронеж (Плехановская, 13)",6,"Voronezh (Plekhanovskaya, 13)",Voronezh
+7,"Воронеж ТРЦ ""Максимир""",7,"Voronezh TRC ""Maksimir""",Voronezh
+8,"Воронеж ТРЦ Сити-Парк ""Град""",8,"Voronezh TRC City-Park ""City""",Voronezh
+9,Выездная Торговля,9,Offsite Trade,Offsite
+10,Жуковский ул. Чкалова 39м?,10,Zhukovsky st. Chkalov 39m?,Zhukovsky
+11,Жуковский ул. Чкалова 39м²,11,Zhukovsky st. Chkalov 39m²,Zhukovsky
+12,Интернет-магазин ЧС,12,Online store of emergency situations,Online
+13,"Казань ТЦ ""Бехетле""",13,"Kazan Shopping Center ""Behetle""",Kazan
+14,"Казань ТЦ ""ПаркХаус"" II",14,"Kazan TC ""ParkHouse"" II",Kazan
+15,"Калуга ТРЦ ""XXI век""",15,"Kaluga SEC ""XXI century""",Kaluga
+16,"Коломна ТЦ ""Рио""",16,"Kolomna TC ""Rio""",Kolomna
+17,"Красноярск ТЦ ""Взлетка Плаза""",17,"Krasnoyarsk TC ""Vzletka Plaza""",Krasnoyarsk
+18,"Красноярск ТЦ ""Июнь""",18,"Krasnoyarsk TC ""June""",Krasnoyarsk
+19,"Курск ТЦ ""Пушкинский""",19,"Kursk TC ""Pushkinsky""",Kursk
+20,"Москва ""Распродажа""",20,"Moscow ""Sale""",Moscow
+21,"Москва МТРЦ ""Афи Молл""",21,"Moscow MTRC ""Afi Mall""",Moscow
+22,Москва Магазин С21,22,Moscow Shop C21,Moscow
+23,"Москва ТК ""Буденовский"" (пав.А2)",23,"Moscow TC ""Budenovskiy"" (pav. A2)",Moscow
+24,"Москва ТК ""Буденовский"" (пав.К7)",24,"Moscow TC ""Budenovsky"" (pav. K7)",Moscow
+25,"Москва ТРК ""Атриум""",25,"Moscow TRK ""Atrium""",Moscow
+26,"Москва ТЦ ""Ареал"" (Беляево)",26,"Moscow TC ""Areal"" (Belyaevo)",Moscow
+27,"Москва ТЦ ""МЕГА Белая Дача II""",27,"Moscow TC ""MEGA Belaya Dacha II""",Moscow
+28,"Москва ТЦ ""МЕГА Теплый Стан"" II",28,"Moscow TC ""MEGA Teply Stan"" II",Moscow
+29,"Москва ТЦ ""Новый век"" (Новокосино)",29,"Moscow TC ""New Age"" (Novokosino)",Moscow
+30,"Москва ТЦ ""Перловский""",30,Moscow Perlovsky Shopping Center,Moscow
+31,"Москва ТЦ ""Семеновский""",31,"Moscow TC ""Semenovsky""",Moscow
+32,"Москва ТЦ ""Серебряный Дом""",32,"Moscow TC ""Silver House""",Moscow
+33,"Мытищи ТРК ""XL-3""",33,"Mytischi TRK ""XL-3""",Mytischi
+34,"Н.Новгород ТРЦ ""РИО""",34,"N.Novgorod SEC ""RIO""",N.Novgorod
+35,"Н.Новгород ТРЦ ""Фантастика""",35,"N.Novgorod SEC ""Fantasy""",N.Novgorod
+36,"Новосибирск ТРЦ ""Галерея Новосибирск""",36,"Novosibirsk SEC ""Gallery Novosibirsk""",Novosibirsk
+37,"Новосибирск ТЦ ""Мега""",37,"Novosibirsk TC ""Mega""",Novosibirsk
+38,"Омск ТЦ ""Мега""",38,"Omsk TC ""Mega""",Omsk
+39,"РостовНаДону ТРК ""Мегацентр Горизонт""",39,Rostov-on-Don Megacenter Horizon,Rostov-on-Don
+40,"РостовНаДону ТРК ""Мегацентр Горизонт"" Островной",40,"Rostov-on-Don shopping mall ""Megacenter Horizon"" Ostrovnoy",Rostov-on-Don
+41,"РостовНаДону ТЦ ""Мега""",41,"RostovNaDonu TC ""Mega""",RostovNaDonu
+42,"СПб ТК ""Невский Центр""",42,"SPb TC ""Nevsky Center""",SPb
+43,"СПб ТК ""Сенная""",43,"SPb TC ""Sennaya""",SPb
+44,"Самара ТЦ ""Мелодия""",44,"Samara TC ""Melody""",Samara
+45,"Самара ТЦ ""ПаркХаус""",45,"Samara TC ""ParkHaus""",Samara
+46,"СергиевПосад ТЦ ""7Я""",46,Sergiev Posad 7Ya Shopping Center,Sergiev
+47,"Сургут ТРЦ ""Сити Молл""",47,"Surgut SEC ""City Mall""",Surgut
+48,"Томск ТРЦ ""Изумрудный Город""",48,"Tomsk SEC ""Emerald City""",Tomsk
+49,"Тюмень ТРЦ ""Кристалл""",49,"Tyumen SEC ""Crystal""",Tyumen
+50,"Тюмень ТЦ ""Гудвин""",50,"Tyumen TC ""Goodwin""",Tyumen
+51,"Тюмень ТЦ ""Зеленый Берег""",51,"Tyumen TC ""Green Coast""",Tyumen
+52,"Уфа ТК ""Центральный""",52,"Ufa TC ""Central""",Ufa
+53,"Уфа ТЦ ""Семья"" 2",53,"Ufa TC ""Family"" 2",Ufa
+54,"Химки ТЦ ""Мега""",54,"Khimki TC ""Mega""",Khimki
+55,Цифровой склад 1С-Онлайн,55,Digital warehouse 1C-Online,Digital
+56,"Чехов ТРЦ ""Карнавал""",56,"Chekhov SEC ""Carnival""",Chekhov
+57,"Якутск Орджоникидзе, 56",57,"Yakutsk Ordzhonikidze, 56",Yakutsk
+58,"Якутск ТЦ ""Центральный""",58,"Yakutsk TC ""Central""",Yakutsk
+59,"Ярославль ТЦ ""Альтаир""",59,"Yaroslavl TC ""Altair""",Yaroslavl

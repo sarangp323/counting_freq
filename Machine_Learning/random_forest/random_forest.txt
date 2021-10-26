@@ -1,0 +1,10 @@
+		Random Forest
+
+
+Max_depth : -
+
+	- It defines as the longest path b/w root node and leaf node.
+
+Min_sample_split:-
+
+	- 
